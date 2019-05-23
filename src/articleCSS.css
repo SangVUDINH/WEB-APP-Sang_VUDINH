@@ -1,0 +1,29 @@
+#addArticle {
+    height: 250px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: burlywood;
+}
+
+#updateArticle {
+    height: 250px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: burlywood;
+}
+
+#deleteArticle {
+    height: 250px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: burlywood;
+}
+
+h5.five {
+    border-style: solid;
+    border-width: 5px;
+  }
+h5.articlename {
+    border-style: solid;
+    border-width: 12px;
+  }
